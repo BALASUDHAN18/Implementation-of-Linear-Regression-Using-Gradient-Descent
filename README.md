@@ -9,13 +9,16 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Start the program.
-2.import numpy as np.
-3.Give the header to the data.
-4.Find the profit of population.
-5.Plot the required graph for both for Gradient Descent Graph and Prediction Graph.
-6.End the program.
 
-Program:
+2.import numpy as np.
+
+3.Give the header to the data.
+
+4.Find the profit of population.
+
+5.Plot the required graph for both for Gradient Descent Graph and Prediction Graph.
+
+6.End the program.
 
 ## Program:
 ```
@@ -112,7 +115,19 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![](Exp3_1.png)
+
+![](Exp3_2.png)
+
+![](Exp3_3.png)
+
+![](Exp3_4.png)
+
+![](Exp3_5.png)
+
+![](Exp3_6.png)
+
+![](Exp3_7.png)
 
 
 ## Result:
